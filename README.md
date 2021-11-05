@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shekhar Suman a 2nd year BCA student at Chandigarh University.
 - 👀 I’m interested in Android Devlopment.
-- 🌱 I’m currently learning Data Structure and Algorithms in Java and Android Development also.
+- 🌱 I’m currently learning Data Structure and Algorithms in Java as well as Android Development too.
 - 📫 We can connect here https://www.linkedin.com/in/shekharsuman- 
 
 <!---
